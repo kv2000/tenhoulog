@@ -1,8 +1,8 @@
-# 天鳳鳳凰桌牌譜 Tenhou Phonix Logs
+# 天鳳鳳凰桌牌譜 Tenhou Phoenix Logs
 
 這是天鳳鳳凰桌牌譜文件，由于GitHub單文件只能<100MB，所以需要合并文件。
 
-This is Tenhou phonix logs. GitHub file limit in 100MB, So I cut the files.
+This is Tenhou phoenix logs. GitHub file limit in 100MB, So I cut the files.
 
 ## 合并文件 Merge Files
 
