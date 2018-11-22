@@ -1,9 +1,15 @@
-# 合并文件的方法 Merge File
+# 天鳳鳳凰桌牌譜 Tenhou Phonix Logs
 
-Windows:运行 `merge_xml.bat`  再解压缩 `.tar.gz` 文件即可
+這是天鳳鳳凰桌牌譜文件，由于GitHub單文件只能<100MB，所以需要合并文件。
 
-Linux&MacOS:运行 `merge_xml.sh`  再解压缩 `.tar.gz` 文件即可
+This is Tenhou phonix logs. GitHub file limit in 100MB, So I cut the files.
 
-Linux&MacOS:Run `merge_xml.sh`  decompress `.tar.gz` file
+## 合并文件 Merge Files
 
-Windows:run `merge_xml.bat`  decompress `.tar.gz` file
+Windows:1.運行 `merge_xml.bat`  2.解壓縮 `.tar.gz`
+
+Linux&MacOS:1.運行 `merge_xml.sh`  2.解壓縮 `.tar.gz`
+
+Windows: 1.run `merge_xml.bat`  2.decompress `.tar.gz`
+
+Linux&MacOS:1.Run `merge_xml.sh`  2.decompress `.tar.gz`
